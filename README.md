@@ -256,3 +256,12 @@ To "make" or optimize a pentesting repository/setup (assuming "macking" means "m
 - **Limitations**: AI isn't foolproof—false positives/negatives occur. Combine with human review. Ethical AI use avoids biases in training data.
 
 If this isn't what you meant (e.g., if "macking" or "atomasain" refers to something else), please clarify for a more tailored response. Remember, pentesting should always be done responsibly!
+## Network Vulnerability Scanners
+
+* [celerystalk](https://github.com/sethsec/celerystalk) - Asynchronous enumeration and vulnerability scanner that "runs all the tools on all the hosts" in a configurable manner.
+* [kube-hunter](https://kube-hunter.aquasec.com/) - Open-source tool that runs a set of tests ("hunters") for security issues in Kubernetes clusters from either outside ("attacker's view") or inside a cluster.
+* [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner) - Commercial vulnerability management, configuration, and compliance assessment platform, sold by Tenable.
+* [Netsparker Application Security Scanner](https://www.netsparker.com/pricing/) - Application security scanner to automatically find security flaws.
+* [Nexpose](https://www.rapid7.com/products/nexpose/) - Commercial vulnerability and risk management assessment engine that integrates with Metasploit, sold by Rapid7.
+* [OpenVAS](http://www.openvas.org/) - Free software implementation of the popular Nessus vulnerability assessment system.
+* [Vuls](https://github.com/future-architect/vuls) - Agentless vulnerability scanner for GNU/Linux and FreeBSD, written in Go.
